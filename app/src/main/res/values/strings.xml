@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">API Viewmodel</string>
+    <string name="button">Button</string>
+    <string name="addbtn">addbtn</string>
+    <string name="add_title">Add Title</string>
+    <string name="add_text">Add Text</string>
+    <string name="add">Add</string>
+    <string name="edit_text">Edit Text</string>
+    <string name="edit_title">Edit Title</string>
+    <string name="update">Update</string>
+</resources>
